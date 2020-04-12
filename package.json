@@ -1,0 +1,19 @@
+{
+  "name": "9der",
+  "version": "1.0.0",
+  "description": "Enjoy good movies with your conservative familly",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Noah-Ma/9der.git"
+  },
+  "author": "Noah",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Noah-Ma/9der/issues"
+  },
+  "homepage": "https://github.com/Noah-Ma/9der#readme"
+}
